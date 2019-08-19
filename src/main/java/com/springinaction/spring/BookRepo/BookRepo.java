@@ -1,3 +1,5 @@
+//Please invite me in your project
+//Lejaka was here
 package com.springinaction.spring.BookRepo;
 
 import com.springinaction.spring.model.Book;
@@ -8,3 +10,4 @@ import org.springframework.stereotype.Repository;
 public interface BookRepo extends JpaRepository<Book,Long> {
 
 }
+
